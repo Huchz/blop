@@ -1,0 +1,27 @@
+# hosts
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# separación
+
+0.0.0.0 https://elpais.com/arc/subs/p.min.js
+0.0.0.0 https://ak-ads-ns.prisasd.com/test/slot/elpais_arc/slot.js
+0.0.0.0 s1.eestatic.com/assets_js/web/v2/historia.min.js?v=462
+0.0.0.0 s1.eestatic.com/assets_js/web/v2/historiaInvertia.min.js?v=462
+0.0.0.0 www.washingtonpost.com/_next/static/chunks/991f712fc5976b032ec62aacf217106cd963ad42.a4dcb7d1d76f27607186.js
+
+
